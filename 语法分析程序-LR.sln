@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "语法分析程序-LR", "语法分析程序-LR\语法分析程序-LR.vcxproj", "{6273C652-DB8D-4527-A263-8840C858E5C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6273C652-DB8D-4527-A263-8840C858E5C0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6273C652-DB8D-4527-A263-8840C858E5C0}.Debug|Win32.Build.0 = Debug|Win32
+		{6273C652-DB8D-4527-A263-8840C858E5C0}.Release|Win32.ActiveCfg = Release|Win32
+		{6273C652-DB8D-4527-A263-8840C858E5C0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
